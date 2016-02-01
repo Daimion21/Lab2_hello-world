@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("Here ye Here ye : important announcement");
 		
 		System.out.println("Lab2 Hellow World");
+		
+		System.out.println("Lab2 Goodbye World");
 	}
 
 }
