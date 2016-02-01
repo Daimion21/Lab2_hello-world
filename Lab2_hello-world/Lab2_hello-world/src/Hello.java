@@ -6,6 +6,9 @@ public class Hello {
 	 * @param args arguments
 	 */
 	public static void main(String[] args) {
+		
+		System.out.println("Here ye Here ye : important announcement");
+		
 		System.out.println("Lab2 Hello World");
 	}
 
