@@ -14,6 +14,8 @@ public class Hello {
 	public static void main(String[] args) {		
 >>>>>>> refs/heads/master
 		System.out.println("Lab2 Hello World");
+		
+		System.out.println("Lab2 Goodbye World");
 	}
 
 }
